@@ -6,7 +6,11 @@ Game's APK file is provided.
 After reading and following tutorials for developing games for android I decided that I want to create my own game, rather than just follow the tutorials (snake, mario-like, etc). The game engine was imported from those tutorials (I unfortunately cannot recall the sources anymore) but all the rest is my original coding.
 
 Aspects I explored in this project:
-Java, Android app development, open-GLES, polymorphism, scripted-AI and complex behavior of the group (herd) based on fairly simple rules within the individual (the sheep's behavior).
+ * Java
+ * Android app development
+ * open-GLES1.0
+ * polymorphism
+ * scripted-AI and complex behavior of the group (herd) based on fairly simple rules within the individual (the sheep's behavior).
 
 
 Since 2013 I haven't modified any of the code except for updating the icons.
