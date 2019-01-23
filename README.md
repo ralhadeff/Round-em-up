@@ -10,7 +10,8 @@ Aspects I explored in this project:
  * Android app development
  * open-GLES1.0
  * polymorphism
- * scripted-AI and complex behavior of the group (herd) based on fairly simple rules within the individual (the sheep's behavior).
+ * scripted-AI
+ * complex behavior of the group (herd) based on fairly simple rules within the individual (the sheep's behavior).
 
 
 Since 2013 I haven't modified any of the code except for updating the icons.
