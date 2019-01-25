@@ -1,4 +1,4 @@
-package com.raphael.ecosystem;
+package com.raphael.roundemup;
 
 import javax.microedition.khronos.opengles.GL10;
 
