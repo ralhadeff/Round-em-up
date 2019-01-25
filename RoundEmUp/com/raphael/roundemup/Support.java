@@ -1,10 +1,11 @@
-package com.raphael.ecosystem;
+package com.raphael.roundemup;
 
 public class Support {
 
 	public static int safeDivide(int a, int b, int def) {
 		if (b != 0)
 			return (a / b);
+		// default (provided as input
 		return def;
 	}
 
