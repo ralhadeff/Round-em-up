@@ -1,4 +1,4 @@
-package com.raphael.ecosystem;
+package com.raphael.roundemup;
 
 import com.raphael.framework.gl.TextureRegion;
 
