@@ -10,6 +10,7 @@ Aspects I explored in this project:
  * Android app development
  * open-GLES1.0
  * polymorphism
+ * visitor pattern
  * scripted-AI
  * complex behavior of the group (herd) based on fairly simple rules within the individual (the sheep's behavior).
 
