@@ -1,11 +1,11 @@
 # Round-em-up
-This partially completed game was my first original android app game created, back in ~2013.  
-Game's APK file is provided.
+**This partially completed game was my first original android app game created, back in ~2013.  
+Game's APK file is provided.**
 
 
 After reading and following tutorials for developing games for android I decided that I want to create my own game, rather than just follow the tutorials (snake, mario-like, etc). The game engine was imported from those tutorials (I unfortunately cannot recall the sources anymore) but all the rest is my original coding.
 
-Aspects I explored in this project:
+**Aspects I explored in this project:**
  * Java
  * Android app development
  * open-GLES1.0
