@@ -18,7 +18,7 @@ After reading and following tutorials for developing games for android I decided
 Since 2013 I haven't modified any of the code except for updating the icons.
 
 
-The game's idea was that you control shepherd dogs and your goal is to guide the dogs (by selecting them, then drawing a running path for them) so that they herd the sheeps on the screen into the pen.  
+The game's idea was that you control shepherd dogs and your goal is to guide the dogs (by selecting them, then drawing a running path for them) so that they herd the sheep on the screen into the pen.  
 Currently however, there is only one screen, and no win/lose conditions. You can select any of the three dogs (one click) then swipe however you want on the screen, and the dog will follow that path as soon as your finger goes up.  
-Because the game was still at the testing phase when I stopped working on it, the player can also control sheeps manually, and even cheat by holding two fingers on the screen, and clicking anywhere on the screen with a third finger.
+Because the game was still at the testing phase when I stopped working on it, the player can also control sheep manually, and even cheat by holding two fingers on the screen, and clicking anywhere on the screen with a third finger.
 
