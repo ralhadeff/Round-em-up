@@ -1,9 +1,9 @@
 # Round-em-up
-**This is a partially completed game, and was my first original android game created, back in ~2013.  
+**This is a partially completed game, which was my first original android game created, back in ~2013.  
 Game's APK file is provided.**
 
 
-After having read and followed tutorials for developing games for android I wanted to create my own original game, rather than just follow the tutorials (snake, mario-like, etc). The game engine (`framework` folder) was imported from those tutorials (I unfortunately cannot recall the sources used at the time) but all the rest is my original coding.
+After having read and followed tutorials for developing games for android I wanted to create my own original game, rather than just follow the tutorials (snake, mario-like, etc). The game engine (`framework` folder) was imported from those tutorials (I unfortunately cannot recall the sources used at the time) but all the rest is my original coding.  
 
 **Aspects I explored in this project:**
  * Coding with Java
