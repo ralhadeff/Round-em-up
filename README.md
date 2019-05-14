@@ -12,7 +12,7 @@ After having read and followed tutorials for developing games for android I want
  * polymorphism
  * visitor pattern
  * scripted-AI
- * complex behavior of a group (the "herd") based on fairly simple behavior rules for the individual (behavior of a single sheep with its surrounding).
+ * complex behavior of a group (the _herd_) based on fairly simple behavior rules for the individual (behavior of a single sheep with its surrounding).
 
 
 Since 2013 I haven't modified any of the code except for updating the icons.
